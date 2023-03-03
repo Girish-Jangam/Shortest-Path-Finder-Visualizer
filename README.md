@@ -9,7 +9,7 @@ Zoom in and out of visualizations.
 Intuitive user interface for easy navigation and interaction.
 
 ## How to use
-- To use this application, simply go to the following link: 
+- To use this application, simply go to the following link: https://dijikstras.000webhostapp.com/
 
 ## Installation
 
